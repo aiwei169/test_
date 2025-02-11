@@ -1,3 +1,10 @@
+"""
+小数科技-面试题
+作者：施垚
+时间：2025-02-11
+"""
+
+
 import os
 import json
 import numpy as np
